@@ -1,4 +1,4 @@
-# Review: Variables Lab
+# Review: Variables Lab  
 
 ## Learning Goals
 
@@ -43,7 +43,7 @@ that matter, will still have CONTRIBUTING.md, LICENSE.md, and README.md files.)
 
 ### Code Along
 
-Open up `index.js` in your text editor; you should see, well, nothing. We'll fix
+Open up `index.js` in your text editor; you should see, well, nothing. We'll fix 
 that soon.
 
 Now open up `test/indexTest.js`. Hey, there's something! What's all of this
